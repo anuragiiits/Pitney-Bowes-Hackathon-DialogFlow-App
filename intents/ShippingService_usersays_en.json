@@ -1,0 +1,74 @@
+[
+  {
+    "id": "49a48832-482f-44f3-9530-90dfab46f368",
+    "data": [
+      {
+        "text": "details of shipping service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51ddccce-235b-49d3-bc25-a7710a3656c3",
+    "data": [
+      {
+        "text": "more about shipping service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b2963ad5-d09b-414b-ac84-b36a150e9c92",
+    "data": [
+      {
+        "text": "information about shipping service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bae5cab5-55b5-419e-b0ba-95a960caaf56",
+    "data": [
+      {
+        "text": "I want to know about the shipping service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f4caa57-33a4-4fce-917c-d3d80c5ab06b",
+    "data": [
+      {
+        "text": "Shipping service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9cd16150-858d-49a5-83e4-8a82bc97eadb",
+    "data": [
+      {
+        "text": "Tell me about the Shipping Service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

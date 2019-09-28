@@ -1,0 +1,62 @@
+[
+  {
+    "id": "d9f2c249-0928-43d8-bfc4-06f5835a9a1b",
+    "data": [
+      {
+        "text": "more details about payment service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7629992f-fbb7-401a-8aed-5896744f2cb5",
+    "data": [
+      {
+        "text": "information about payment service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e5b6d703-3e7f-4b20-90f4-58cfb6cbec41",
+    "data": [
+      {
+        "text": "I want to know about the payment service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54d370a8-2e8b-4212-acde-8cc8feda2d5b",
+    "data": [
+      {
+        "text": "Tell me about the payment service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c284ac3f-d1c9-46f4-9afb-0a60aa95946a",
+    "data": [
+      {
+        "text": "What is the payment service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

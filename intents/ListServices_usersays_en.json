@@ -1,0 +1,62 @@
+[
+  {
+    "id": "50fa9c9e-1b47-42de-ab62-d280c9000ed9",
+    "data": [
+      {
+        "text": "I want to know about the services",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9235218f-72f2-4eb6-862d-d6d02b94a376",
+    "data": [
+      {
+        "text": "List all the services",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cc49ca3-d299-4196-9dbe-0360ab1d78dd",
+    "data": [
+      {
+        "text": "tell me about your services",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79937a29-198a-4232-a996-151fdefa5b29",
+    "data": [
+      {
+        "text": "which services are available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1d5a0765-0346-43ad-8d2a-54b6fa1f24d9",
+    "data": [
+      {
+        "text": "What are the services offered",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

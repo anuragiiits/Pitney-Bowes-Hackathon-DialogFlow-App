@@ -1,0 +1,98 @@
+[
+  {
+    "id": "5ac8a197-c6a3-4348-8dfc-17dc55b5c6e2",
+    "data": [
+      {
+        "text": "Subscription Plans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23bcbd39-ed8a-4eea-ab24-41e4d65da763",
+    "data": [
+      {
+        "text": "information about the various plans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78b7ef1c-3eb9-4077-a73a-6fe8daed7aea",
+    "data": [
+      {
+        "text": "What are the plans that I can subscribe to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "490eba57-a9ee-4cf0-b0d1-7fe702c21ac5",
+    "data": [
+      {
+        "text": "details about the plans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a8adb42-7e36-40a4-8799-ad5732542a3a",
+    "data": [
+      {
+        "text": "I want to know about the plans available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04000dcb-55f4-4e21-97e2-7b09cc30ce50",
+    "data": [
+      {
+        "text": "Can you tell me about your plans available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d599720-1c34-4331-8d46-5983309fb4b4",
+    "data": [
+      {
+        "text": "plans by Pitney Bowes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe7217d2-7928-4534-8b28-59142ac016d0",
+    "data": [
+      {
+        "text": "What are the plans available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
