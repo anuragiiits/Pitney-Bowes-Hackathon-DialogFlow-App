@@ -14,4 +14,4 @@ To Run the ChatBot as an action in your Google Assistant App, follow the followi
 
 6. Navigate to Fulfillment option on the Console. Enable the webhook with URL as [https://anuragintern.appspot.com/dialogflow](https://anuragintern.appspot.com/dialogflow). Save the Changes.
 
-7. Click `See how it works in Google Assistant.` to test the App in Google Assistant. You can login with the same email id to your Google Assistant Application in your Android Phone and Test the action in your phone.
+7. Click `See how it works in Google Assistant` link on the right panel of console to test the App in Google Assistant. You can login with the same email id to your Google Assistant Application in your Android Phone and Test the action in your phone.
